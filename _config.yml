@@ -1,0 +1,29 @@
+name: 'Savvy & Well'
+favicon: null
+layout_spectrum: 0.472270650556311
+typography_spectrum: 0.7899258281104267
+title: Meal Baskets
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2848676892463118
+  lightness: 0.5827517977450043
+  saturation: 0.6411804722156376
+  rhythmicContrast: 0.34076572372578084
+purpose: []
